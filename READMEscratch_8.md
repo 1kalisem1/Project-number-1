@@ -1,6 +1,6 @@
 # Project Title
 
-One Paragraph of project description goes here
+Scratch_8 Project 1
 
 ## Getting Started
 hello
