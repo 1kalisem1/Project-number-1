@@ -5,11 +5,11 @@ One Paragraph of project description goes here
 ## Getting Started
 hello
 
-These instructions will [do something] on your local machine for [development/experimentation/demo]
+These instructions will print out the lone_sum on your local machine. 
 
 ### Prerequisites
 
-The InteractiveGuessingGame project requires Python, Pycharm V3.7 to run. The links bellow will install the presequisites.
+The scratch_8 project requires Python, Pycharm V3.7 to run. The links bellow will install the presequisites.
 
 https://www.python.org/downloads/
 
@@ -24,13 +24,13 @@ sudo apt install package1 package2
 Once installed you can run the program with the following command
 
 ```
-python Assigment2InteractiveGuessingGame.py
+python scratch_8.py
 ```
 
 Add any additional ways to run the program below
 
 ```
-python Assignment2InteractiveGuessingGame.py Assigment2InteractiveGuessingGame.txt
+python scratch_8.py scratch_8.txt
 ```
 
 ## Thanks
